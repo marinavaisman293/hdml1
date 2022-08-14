@@ -1,0 +1,23 @@
+img {
+  border-radius: 50%;
+}
+
+body {
+	background-color: pink;
+	font-family: Arial;
+}
+
+.red {
+    color:red;
+	font-size: 32px;
+   
+}
+
+#specialstyle {
+	  width:30%;
+      border: 2px solid purple;
+	  background-color: white;
+}
+	
+	
+
